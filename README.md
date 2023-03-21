@@ -1,6 +1,7 @@
 # Udemy-django-rest
 
 📚 djangoooooo
+https://www.udemy.com/share/103JLE3@xuRygoQSVTIYLnCs-VdxqfWGQTncLNiPGZ3OCdKzbk69tyf29vLfKmD3nSpE5vhV/
 
 # lembretes ao clonar o projeto
 
